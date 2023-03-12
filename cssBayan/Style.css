@@ -86,7 +86,7 @@ input {
 .accordion__item:active .accordion__title span, 
 .accordion__item:active .accordion__title,
 .accordion__item:active .accordion__content {
-    filter: opacity(0.7);
+    filter: opacity(0.5);
     color: rgb(30, 93, 156);
 }
 .accordion__item:checked .accordion__title span {
