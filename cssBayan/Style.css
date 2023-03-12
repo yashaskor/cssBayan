@@ -17,8 +17,9 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    min-height: 100vh;    
 }
+
 h1 {
 font-size: 2rem;
 font-weight: 700;
@@ -119,8 +120,8 @@ input {
         font-size: 1.5rem;
         font-weight: 500;
         }
-        img {
-            min-height: 8rem;
-            min-width: 8rem;
-        }
+    img {
+        min-height: 8rem;
+        min-width: 8rem;
+    }
 }
